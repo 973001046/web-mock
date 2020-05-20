@@ -1,0 +1,22 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{ margin:0;padding:0 } 
+body{ font:12px "Microsoft YaHei","PingFangSC-Regular",HELVETICA;-webkit-text-size-adjust:100%; min-height: 100%;} 
+html {min-height: 100%; background-color: #F5F6F7;}
+a{text-decoration:none } 
+a:hover{ text-decoration:underline } 
+em{ font-style:normal } 
+li{ list-style:none } 
+img{ border:0; vertical-align:middle } 
+table{ border-collapse:collapse; border-spacing:0 } 
+input { border: none; outline: none; font-family: "Microsoft YaHei","PingFangSC-Regular";}
+textarea { border: none; outline: none; font-family: "Microsoft YaHei","PingFangSC-Regular";}
+p{ word-wrap:break-word }
+.clearfix:after {content: ''; display: block; font-size: 0; height: 0; overflow: hidden; clear: both }
+.clearfix { zoom: 1;}
+.left { float: left;}
+.right { float: right;}
+/* html,body {height: 100%;} */
+#app { height: 100%;}
+input[type="text"],input[type="button"], input[type="submit"], input[type="reset"] {-webkit-appearance: none;}
+textarea {-webkit-appearance: none;}
+.vue-picker {padding-bottom: 100px;}
+.picker {padding-bottom: 80px;}
